@@ -1,24 +1,54 @@
-Just a reupload of EVE with added support for newer gamebuilds.
+# Extended Video Export (Updated)
 
-Full credit goes to the original author: https://www.gta5-mods.com/users/nightingale
-Original MOD: https://www.gta5-mods.com/scripts/extended-video-export
+This repository is an updated version of **Extended Video Export (EVE)**, adding support for newer GTA V game builds.
 
+Full credit for the original mod goes to **[nightingale](https://www.gta5-mods.com/users/nightingale)**  
+Original mod: [Extended Video Export](https://www.gta5-mods.com/scripts/extended-video-export)
 
+A significant amount of time and research went into updating this mod. **Please follow all instructions carefully before requesting support.**
 
-## How to:
+---
 
-1. Download & install [Voukoder](https://github.com/Vouk/voukoder/releases)
+## Supported GTA V Game Builds:
 
-2. Download & install [C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ✅ 1604
+- ✅ 2060
+- ✅ 2189
+- ✅ 2372
+- ✅ 2545
+- ✅ 2612
+- ✅ 2699
+- ✅ 2802
+- ✅ 2944
+- ✅ 3258
 
-3. Download version 0.5.2 of [Extended Video Export](https://www.gta5-mods.com/scripts/extended-video-export)
+---
 
-4. Locate your `FiveM Application Data` folder
+## Installation Guide:
 
-5. Create a `plugins` folder inside the `FiveM Application Data` folder, if you haven’t got one already.
+1. **Download and install [Voukoder](https://github.com/Vouk/voukoder/releases).**
 
-6. Extract the `ExtendedVideoExport.asi` file in to the `plugins` folder
+2. **Download and install [C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe).**
 
-7. Extract the `EVE` folder to `plugins` as well. There is no need to place EVE folder in data/cache/subprocesses anymore!
+3. **Download version 0.5.2 of [Extended Video Export](https://www.gta5-mods.com/scripts/extended-video-export).**
 
-8. Open `ExtendedVideoExport.ini` search for **output_folder** and after it **=** put the folder path where you want your video to be exported once the export is finished. Example: `output_folder = C:\eveexports` the folder you specify needs to exist!
+4. **Locate your `FiveM Application Data` folder.**
+
+5. **Create a `plugins` folder** within the `FiveM Application Data` folder if it doesn't already exist.
+
+6. **Extract the file `ExtendedVideoExport.asi`** into the newly created `plugins` folder.
+
+7. **Extract the `EVE` folder** into the same `plugins` folder.  
+   *(You no longer need to place the EVE folder in `data/cache/subprocesses`.)*
+
+8. **Open `ExtendedVideoExport.ini`**, locate the line starting with **`output_folder =`**, and specify your desired output folder path.  
+   Example:
+   ```ini
+   output_folder = C:\eveexports
+
+# ⚠️ Special Instructions for NVE Users:
+If you are using NaturalVision Evolved (NVE), follow these additional steps:
+
+1. Complete the standard installation above.
+2. Delete the file ReshadeEffectShaderToggler.addon64 from your FiveM plugins folder.
+(These instructions are accurate as of March 6, 2025. If compatibility breaks with future NVE updates, please notify me.)
