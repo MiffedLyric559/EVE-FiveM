@@ -11,16 +11,18 @@ A significant amount of time and research went into updating this mod. **Please 
 
 ## Supported GTA V Game Builds:
 
-- ✅ 1604
-- ✅ 2060
-- ✅ 2189
-- ✅ 2372
-- ✅ 2545
-- ✅ 2612
+- ⚠️ 1604 (not tested)
+- ⚠️ 2060 (not tested)
+- ⚠️ 2189 (not tested)
+- ⚠️ 2372 (not tested)
+- ⚠️ 2545 (not tested)
+- ⚠️ 2612 (not tested)
 - ✅ 2699
 - ✅ 2802
 - ✅ 2944
 - ✅ 3258
+- ⚠️ 3323 (not tested)
+- ⚠️ 3407 (not tested)
 
 ---
 
