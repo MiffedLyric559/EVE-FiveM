@@ -32,7 +32,7 @@ A significant amount of time and research went into updating this mod. **Please 
 
 2. **Download and install [C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe).**
 
-3. **Download version 0.5.2 of [Extended Video Export](https://www.gta5-mods.com/scripts/extended-video-export).**
+3. **Download latest version of [Extended Video Export](https://github.com/MiffedLyric559/EVE-FiveM/releases/latest).**
 
 4. **Locate your `FiveM Application Data` folder.**
 
