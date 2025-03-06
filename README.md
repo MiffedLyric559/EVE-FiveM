@@ -8,6 +8,8 @@ Original mod: [Extended Video Export](https://www.gta5-mods.com/scripts/extended
 A significant amount of time and research went into updating this mod. **Please follow all instructions carefully before requesting support.**
 Checkout this forum post for debugging tips: **[CFX - FiveM - How to get EVE working with FiveM](https://forum.cfx.re/t/how-to-use-extended-video-export-eve-fivem/2581771)**  
 
+If you want to add compatibility yourselves you can refer to this guide: **[How to updated your ASI files for FiveM](https://forum.cfx.re/t/how-to-make-a-res-file-and-update-your-asi-files/5090038)**  
+
 ---
 
 ## Supported GTA V Game Builds:
