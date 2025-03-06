@@ -17,11 +17,11 @@ A significant amount of time and research went into updating this mod. **Please 
 - ⚠️ 2372 (not tested)
 - ⚠️ 2545 (not tested)
 - ⚠️ 2612 (not tested)
-- ✅ 2699
-- ✅ 2802
-- ✅ 2944
-- ✅ 3258
-- ⚠️ 3323 (not tested)
+- ✅ 2699 (confirmed)
+- ✅ 2802 (confirmed)
+- ✅ 2944 (confirmed)
+- ✅ 3258 (confirmed)
+- ✅ 3323 (confirmed)
 - ⚠️ 3407 (not tested)
 
 ---
