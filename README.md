@@ -25,7 +25,7 @@ If you want to add compatibility yourselves you can refer to this guide: **[How 
 - ✅ 2944 (confirmed)
 - ✅ 3258 (confirmed)
 - ✅ 3323 (confirmed)
-- ⚠️ 3407 (not tested)
+- ✅ 3407 (confirmed)
 
 ---
 
