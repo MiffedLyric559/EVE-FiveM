@@ -6,6 +6,7 @@ Full credit for the original mod goes to **[nightingale](https://www.gta5-mods.c
 Original mod: [Extended Video Export](https://www.gta5-mods.com/scripts/extended-video-export)
 
 A significant amount of time and research went into updating this mod. **Please follow all instructions carefully before requesting support.**
+Checkout this forum post for debugging tips: **[CFX - FiveM - How to get EVE working with FiveM](https://forum.cfx.re/t/how-to-use-extended-video-export-eve-fivem/2581771)**  
 
 ---
 
