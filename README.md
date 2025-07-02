@@ -31,7 +31,7 @@ If you want to add compatibility yourselves you can refer to this guide: **[How 
 
 ## Installation Guide:
 
-1. **Download and install [Voukoder](https://github.com/Vouk/voukoder/releases).**
+1. **Download and install [Voukoder]([https://github.com/Vouk/voukoder/releases](https://www.voukoder.org/forum/thread/783-downloads-instructions/)).**
 
 2. **Download and install [C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe).**
 
