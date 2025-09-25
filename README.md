@@ -30,13 +30,13 @@ A great deal of time and research went into updating this mod.
 | 2189  | ⚠️ Not Tested |
 | 2372  | ⚠️ Not Tested |
 | 2545  | ⚠️ Not Tested |
-| 2612  | ⚠️ Not Tested |
-| 2699  | ⚠️ Not Tested |
+| 2612  | ✅ Tested |
+| 2699  | ✅ Tested |
 | 2802  | ✅ Tested      |
-| 2944  | ⚠️ Not Tested |
+| 2944  | ✅ Tested |
 | 3258  | ✅ Tested      |
-| 3323  | ⚠️ Not Tested |
-| 3407  | ⚠️ Not Tested |
+| 3323  | ✅ Tested |
+| 3407  | ✅ Tested |
 
 ---
 
