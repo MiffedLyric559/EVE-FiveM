@@ -22,6 +22,7 @@ A great deal of time and research went into updating this mod.
 ---
 
 ## ✅ Supported GTA V Game Builds
+If you can't wait for me to update. Here is a guide on how you can add support in a hacky way that might work: https://forum.cfx.re/t/how-to-make-a-res-file-and-update-your-asi-files/5090038
 
 | Build | Status        |
 | ----- | ------------- |
