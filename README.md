@@ -80,10 +80,10 @@ Having `Menyoo.asi` in your `FiveM/plugins` folder may cause crashes during expo
 
 ---
 
-## 🎨 Graphics Pack Compatibility (As of July 20, 2025)
+## 🎨 Graphics Pack Compatibility (As of 25 September, 2025)
 
-* **QuantV**: *QuantV FiveM – 2025-07-13 build*
-* **NVE**: *1.0.285.0 (ReShade Addon Version) – July 2025 Update*
+* **QuantV**: *QuantV FiveM 2025-9-1*
+* **NVE**: *1.0.285.0 (ReShade Addon Version) – July 2025 Update* (Have not tested latest NVE versions.)
 
 ---
 
@@ -95,6 +95,7 @@ Having `Menyoo.asi` in your `FiveM/plugins` folder may cause crashes during expo
 * **ReShade**:
 
   * Tested with ReShade 6.5.1 (Full Addon Support)
+  * Works 100% with QuantV Reshade pinned in support channel in their discord.
   * Also works with the version bundled with NVE
     👉 [Download ReShade 6.5.1](https://reshade.me/downloads/ReShade_Setup_6.5.1_Addon.exe)
 
@@ -102,7 +103,7 @@ Having `Menyoo.asi` in your `FiveM/plugins` folder may cause crashes during expo
 
 ## 📬 Stay Updated
 
-These instructions are accurate as of **July 20, 2025**.
+These instructions are accurate as of **25 September, 2025**.
 If future updates break compatibility, please [open an issue](https://github.com/MiffedLyric559/EVE-FiveM/issues) or reach out.
 
 📩 **Contact**:
