@@ -1,3 +1,10 @@
+# This repo is being archived. We have launched a community version where everyone can contribute. The repo is open source following the original authors license and we will be updating EVE's source code to better work with modern versions of FiveM.
+> **EVE REPO**: [🎬 Community-maintained continuation of the Extended Video Export (EVE) mod for GTA V — powerful cinematic video exporting tools for Rockstar Editor.](https://github.com/MiffedLyric559/gta5-extended-video-export-Community-Edition/tree/wip)
+
+
+
+
+
 # Extended Video Export (Updated)
 ![Maintenance](https://img.shields.io/maintenance/yes/2025)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/MiffedLyric559/EVE-FiveM)
